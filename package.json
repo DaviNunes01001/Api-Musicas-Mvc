@@ -7,7 +7,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaviNunes01001/Api-Musicas-Mvc.git"
+  },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaviNunes01001/Api-Musicas-Mvc/issues"
+  },
+  "homepage": "https://github.com/DaviNunes01001/Api-Musicas-Mvc#readme"
 }
